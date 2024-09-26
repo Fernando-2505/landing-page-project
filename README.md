@@ -2,7 +2,7 @@ Título:
 Landing Page - Proyecto para Empresa Ficticia
 
 Descripción:
-Una página de aterrizaje (landing page) simple y efectiva diseñada para una empresa ficticia que busca captar clientes y mostrar sus servicios.
+Una página de aterrizaje (landing page) simple y efectiva diseñada para captar clientes y mostrar servicios.
 
 Características:
 Diseño limpio y profesional.
